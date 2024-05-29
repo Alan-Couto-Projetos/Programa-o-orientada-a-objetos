@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "bycontract": "^2.0.11",
+    "node-localstorage": "^3.0.5",
+    "prompt-sync": "^4.2.0",
+    "util": "^0.12.5"
+  }
+}
